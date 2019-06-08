@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <Footer/>
-    <router-view/>
+
+    <router-view/><Footer/>
   </div>
 </template>
 
@@ -22,5 +22,12 @@ export default {
 <style lang="scss">
   .app{
     position: absolute;
+  }
+  .app footer{
+    position: fixed;
+    bottom:0;
+    left:0;
+    right:0;
+
   }
 </style>

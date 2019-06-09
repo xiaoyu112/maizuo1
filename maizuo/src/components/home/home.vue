@@ -1,10 +1,11 @@
 <template>
   <div class="hello">
-   
+    <Content/>
   </div>
 </template>
 
 <script>
+import Content from "./content"
 export default {
   
 }

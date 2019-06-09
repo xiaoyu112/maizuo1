@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
-
+import fresh from "./views/fresh.vue"
 Vue.use(Router)
 
 export default new Router({
@@ -33,6 +33,11 @@ export default new Router({
       name: 'me',
       component: (resolve)=>require(["./views/Me.vue"],resolve)
     },
+      {
+        path:"/fresh",
+          name:"fresh",
+          component:fresh
+      }
   ]
 })
 

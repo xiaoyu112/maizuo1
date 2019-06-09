@@ -1,0 +1,1269 @@
+{
+    "list": [
+      {
+        "productId": 67720755,
+        "masterName": "海南鲜活花螺 450-550g",
+        "slaveName": "生态海域捕捞 壳薄肉质肥嫩 全程冷链锁鲜",
+        "salesCount": 455,
+        "sku": {
+          "imgUrl": "https://mall.s.maizuo.com/58baa172e7346d4e744523a66bedb2c7.png",
+          "price": 7900
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#91BC6F",
+            "title": "新品"
+          }]
+        }
+      }, {
+        "productId": 67729802,
+        "masterName": "鲜活鲍鱼 500g（15-18头）",
+        "slaveName": "个头饱满肥美 入口鲜香嫩滑 冷链锁鲜高蛋白",
+        "salesCount": 478,
+        "sku": {
+          "skuId": 67738328,
+          "imgUrl": "https://mall.s.maizuo.com/aee22aab6fdc75f36ea991ecc189c1b6.png",
+          "price": 11800
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#91BC6F",
+            "title": "新品"
+          }]
+        }
+      }, {
+        "productId": 67729801,
+        "masterName": "进口熟冻面包蟹  600-800g/只",
+        "slaveName": "个头硕大肥美 肉厚蟹黄绵密 全程冷链锁鲜",
+        "salesCount": 622,
+        "sku": {
+          "skuId": 67738327,
+          "imgUrl": "https://mall.s.maizuo.com/7eeac473d935a719ca85fdcf47525aaa.png",
+          "price": 9800
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#78A0D1",
+            "title": "冰鲜"
+          }]
+        }
+      }, {
+        "productId": 67733243,
+        "masterName": "鲜活波士顿龙虾 500-550g/只",
+        "slaveName": "生态海域捕捞 肉质鲜嫩爽滑 富含蛋白低脂肪",
+        "salesCount": 479,
+        "sku": {
+          "skuId": 67741769,
+          "imgUrl": "https://mall.s.maizuo.com/147bbf11d4ebe3cf89228d5a1a2bfa80.png",
+          "price": 16600
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#91BC6F",
+            "title": "新品"
+          }]
+        }
+      }, {
+        "productId": 67729803,
+        "masterName": "大连鲜活海螺 450-550g",
+        "slaveName": "个大均匀饱满 肉质鲜嫩肥美 全程冷链锁鲜",
+        "salesCount": 416,
+        "sku": {
+          "skuId": 67738329,
+          "imgUrl": "https://mall.s.maizuo.com/90468a50d0e15681677ad16356441a69.png",
+          "price": 7300
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#91BC6F",
+            "title": "新品"
+          }]
+        }
+      }, {
+        "productId": 67729805,
+        "masterName": "冰鲜大黄鱼 450-550g/条",
+        "slaveName": "肉质鲜嫩肥美 刺少爽口十足 全程冷链锁鲜",
+        "salesCount": 594,
+        "sku": {
+          "skuId": 67738331,
+          "imgUrl": "https://mall.s.maizuo.com/60689a0f1eee4fc8eab0539ba77aa5aa.png",
+          "price": 6400
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#78A0D1",
+            "title": "冰鲜"
+          }]
+        }
+      }, {
+        "productId": 67738874,
+        "masterName": "越南黑虎虾 400g*2盒",
+        "slaveName": "个头均匀肥大 壳薄肉厚鲜嫩 全程冷链锁鲜",
+        "salesCount": 1953,
+        "isSku": 0,
+        "sku": {
+          "skuId": 67747400,
+          "masterName": "",
+          "slaveName": "",
+          "imgUrl": "https://mall.s.maizuo.com/a4456111b06a17ad94c8f2ed5f6d101d.png",
+          "price": 11800,
+          "marketPrice": 0,
+          "inventory": 778,
+          "salesCount": 1953,
+          "groupPrice": 0,
+          "availableInventory": 778
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#78A0D1",
+            "title": "冰鲜"
+          }],
+          "country": {
+            "image": ""
+          },
+          "buyerShow": ""
+        },
+        "hasVideo": 0,
+        "action": {
+          "actionData": "{\"businessId\":\"67738874\",\"param\":\"1\"}",
+          "actionType": 7
+        },
+        "totalInventory": 778
+      }, {
+        "productId": 67738875,
+        "masterName": "北海蛏子王 450-550g/盒",
+        "slaveName": "体型硕大饱满 肉质鲜嫩醇香 全程冷链锁鲜",
+        "salesCount": 346,
+        "isSku": 0,
+        "sku": {
+          "skuId": 67747401,
+          "masterName": "",
+          "slaveName": "",
+          "imgUrl": "https://mall.s.maizuo.com/36a36cd3491ad65fd8bd9d2741340faf.png",
+          "price": 14900,
+          "marketPrice": 0,
+          "inventory": 992,
+          "salesCount": 346,
+          "groupPrice": 0,
+          "availableInventory": 992
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#91BC6F",
+            "title": "新品"
+          }],
+          "country": {
+            "image": ""
+          },
+          "buyerShow": ""
+        },
+        "hasVideo": 0,
+        "action": {
+          "actionData": "{\"businessId\":\"67738875\",\"param\":\"1\"}",
+          "actionType": 7
+        },
+        "totalInventory": 992
+      }, {
+        "productId": 67738877,
+        "masterName": "冰鲜小黄鱼 3-4条",
+        "slaveName": "肉质鲜嫩肥美 刺少爽口十足 全程冷链十足",
+        "salesCount": 596,
+        "isSku": 0,
+        "sku": {
+          "skuId": 67747403,
+          "masterName": "",
+          "slaveName": "",
+          "imgUrl": "https://mall.s.maizuo.com/ac5e6f3bd338861e79e6fa38a30c6b22.png",
+          "price": 3850,
+          "marketPrice": 0,
+          "inventory": 963,
+          "salesCount": 596,
+          "groupPrice": 0,
+          "availableInventory": 963
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#78A0D1",
+            "title": "冰鲜"
+          }],
+          "country": {
+            "image": ""
+          },
+          "buyerShow": ""
+        },
+        "hasVideo": 0,
+        "action": {
+          "actionData": "{\"businessId\":\"67738877\",\"param\":\"1\"}",
+          "actionType": 7
+        },
+        "totalInventory": 963
+      }, {
+        "productId": 56715504,
+        "masterName": "【海南】鲜切鲷鱼片 180g",
+        "slaveName": "生态海域鲜活捕捞 肉质嫩滑鲜美 富含多种营养",
+        "salesCount": 216,
+        "isSku": 0,
+        "sku": {
+          "skuId": 56722464,
+          "masterName": "",
+          "slaveName": "",
+          "imgUrl": "https://mall.s.maizuo.com/c00e14b0dc038ed68ae96441ed921b8d.png",
+          "price": 11300,
+          "marketPrice": 0,
+          "inventory": 39987,
+          "salesCount": 216,
+          "groupPrice": 0,
+          "availableInventory": 39987
+        },
+        "labels": {
+          "common": [{
+            "labelColor": "#78A0D1",
+            "title": "冰鲜"
+          }]}},
+      {
+      "productId": 56714223,
+      "masterName": "【海南】深海中段马鲛鱼 3斤装",
+      "slaveName": "港口鲜活捕捞 肉质鲜嫩刺少 全程顺丰冷链",
+      "salesCount": 243,
+      "isSku": 0,
+      "sku": {
+        "skuId": 56721127,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/a1cee4b21ae92bbc771ecbff0c0d60c4.png",
+        "price": 27000,
+        "marketPrice": 0,
+        "inventory": 39983,
+        "salesCount": 243,
+        "groupPrice": 0,
+        "availableInventory": 39983
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"56714223\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 39983
+    }, {
+      "productId": 66431112,
+      "masterName": "【潮汕】本港姑鱼干",
+      "slaveName": "生态海域捕捞 肉厚鲜美紧实 自然晾晒无添加",
+      "salesCount": 460,
+      "isSku": 0,
+      "sku": {
+        "skuId": 66439599,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/51e4857e0794592d5877c74643f516f9.png",
+        "price": 3300,
+        "marketPrice": 0,
+        "inventory": 9975,
+        "salesCount": 460,
+        "groupPrice": 0,
+        "availableInventory": 9975
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#91BC6F",
+          "title": "新品"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"66431112\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 9975
+    }, {
+      "productId": 66431110,
+      "masterName": "【潮汕】本港白公鱼干",
+      "slaveName": "色泽鲜亮自然 肉厚紧实醇香 百搭美食入味",
+      "salesCount": 391,
+      "isSku": 0,
+      "sku": {
+        "skuId": 66439597,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/4d2835906a3ec73ea7afd1dd612a600b.png",
+        "price": 3600,
+        "marketPrice": 0,
+        "inventory": 990,
+        "salesCount": 391,
+        "groupPrice": 0,
+        "availableInventory": 990
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#91BC6F",
+          "title": "新品"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"66431110\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 990
+    }, {
+      "productId": 66430440,
+      "masterName": "【潮汕】本港龙舌鱼干",
+      "slaveName": "专业鲜活捕捞 自然生晒风干 肉质鲜美细腻",
+      "salesCount": 198,
+      "isSku": 0,
+      "sku": {
+        "skuId": 66438927,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/7f4a56c2f5aeb5253b22c40850dada3c.png",
+        "price": 5200,
+        "marketPrice": 0,
+        "inventory": 9997,
+        "salesCount": 198,
+        "groupPrice": 0,
+        "availableInventory": 9997
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#91BC6F",
+          "title": "新品"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"66430440\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 9997
+    }, {
+      "productId": 7460645,
+      "masterName": "【潮汕】本港虾干 150g/250g",
+      "slaveName": "肉质紧致肥厚 咸淡适口 料理好搭档",
+      "salesCount": 2026,
+      "isSku": 0,
+      "sku": {
+        "skuId": 7463901,
+        "masterName": "150g ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/1e8d5e6110f32264d3693c8733558306.png",
+        "price": 6800,
+        "marketPrice": 0,
+        "inventory": 938,
+        "salesCount": 802,
+        "groupPrice": 0,
+        "availableInventory": 938
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"7460645\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 1799
+    }, {
+      "productId": 17644228,
+      "masterName": "【潮汕】本港小黄鱼干 250g",
+      "slaveName": "深海鲜活捕捞 渔家传统淡晒 肉厚饱满柔韧",
+      "salesCount": 2051,
+      "isSku": 0,
+      "sku": {
+        "skuId": 17648442,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/a62df78553cdd6f93380d7b0f320951d.png",
+        "price": 4900,
+        "marketPrice": 0,
+        "inventory": 778,
+        "salesCount": 2051,
+        "groupPrice": 0,
+        "availableInventory": 778
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"17644228\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 778
+    }, {
+      "productId": 16138057,
+      "masterName": "【潮汕】本港丁鱼干 250g",
+      "slaveName": "渔家传统自晒 去头去内脏 味道鲜美",
+      "salesCount": 1433,
+      "isSku": 0,
+      "sku": {
+        "skuId": 16142246,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/6dacd01b8abe082f0435d155016242c3.png",
+        "price": 4800,
+        "marketPrice": 0,
+        "inventory": 841,
+        "salesCount": 1433,
+        "groupPrice": 0,
+        "availableInventory": 841
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"16138057\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 841
+    }, {
+      "productId": 7469453,
+      "masterName": "【潮汕】本港虾皮 150g",
+      "slaveName": "纯天然手工晾晒 体净肉肥 富含钙质",
+      "salesCount": 4712,
+      "isSku": 0,
+      "sku": {
+        "skuId": 7472711,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/1b6792c5268f88cacf14676a4875797f.png",
+        "price": 4200,
+        "marketPrice": 0,
+        "inventory": 394,
+        "salesCount": 4712,
+        "groupPrice": 0,
+        "availableInventory": 394
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"7469453\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 394
+    }, {
+      "productId": 60316034,
+      "masterName": "【潮汕】本港皮皮虾肉干 250g",
+      "slaveName": "多道工序清理 农家自然晾晒 柔嫩鲜美营养",
+      "salesCount": 1075,
+      "isSku": 0,
+      "sku": {
+        "skuId": 60323450,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/8786c15fc0cc1248c50a946b795c5f39.png",
+        "price": 12800,
+        "marketPrice": 0,
+        "inventory": 9988,
+        "salesCount": 1075,
+        "groupPrice": 0,
+        "availableInventory": 9988
+      },
+      "labels": {
+        "common": null,
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"60316034\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 9988
+    }],
+  "data": [
+    {
+      "id":1,
+      "src":"https://mall.s.maizuo.com/70a1296a6a755c1a90c651d97c1a3a50.jpg"
+    },
+    {
+      "id":2,
+      "src":"https://mall.s.maizuo.com/79d4658c2cc108d9305b0325c59aaeb5.jpg"
+    },
+    {
+      "id":3,
+      "src":"https://mall.s.maizuo.com/3be2f58c7f10146c7ba69bae43c005ac.jpg"
+    },
+    {
+      "id":4,
+      "src":"https://mall.s.maizuo.com/aa105aab86d1f2898c6b61283bd06cb3.jpg"
+    },
+    {
+      "id":5,
+      "src":"https://mall.s.maizuo.com/770479e6b17bc9fb6d55f27bb6944f53.jpg"
+    },
+    {
+      "id":6,
+      "src":"https://mall.s.maizuo.com/38564bce4b4bdf0fee102e5a4a93814a.jpg"
+    },
+    {
+      "id":9,
+      "src":"https://mall.s.maizuo.com/c7e2475cb7b60aa5ae33e7f333a33943.jpg"
+    },
+    {
+      "id":8,
+      "src":"https://mall.s.maizuo.com/99b72b042091e7934dbc291ecee51773.jpg"
+    },
+    {
+      "id":7,
+      "src":"https://mall.s.maizuo.com/ba189ac6a64004db8de3c2b64d92090e.jpg"
+    }
+
+  ],
+
+
+
+  "lingshi": [{
+    "productId": 28216878,
+    "masterName": "丹麦原装 蓝罐曲奇饼干908g",
+    "slaveName": "奶香浓郁 金黄酥脆 口感丰富",
+    "salesCount": 1386,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28222218,
+      "masterName": "908g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/9ea5761944620731e0ebbea6a379c8ac.png",
+      "price": 12500,
+      "marketPrice": 14900,
+      "inventory": 15,
+      "salesCount": 1386,
+      "groupPrice": 0,
+      "availableInventory": 15
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28216878\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 15
+  }, {
+    "productId": 28446509,
+    "masterName": "Lipo面包干礼盒 480g",
+    "slaveName": "香醇黄油涂层 入口香脆细腻 奶香浓郁下午茶",
+    "salesCount": 700,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28451878,
+      "masterName": "480g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/aab20cbe1dd4eabade61cc1d6070be72.png",
+      "price": 4990,
+      "marketPrice": 5800,
+      "inventory": 43,
+      "salesCount": 700,
+      "groupPrice": 0,
+      "availableInventory": 43
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28446509\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 43
+  }, {
+    "productId": 28443363,
+    "masterName": "大山蜂蜜烘焙扁桃仁 130g",
+    "slaveName": "匠心烘焙工艺 酥脆细腻香润 甜蜜趣生活",
+    "salesCount": 762,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28448732,
+      "masterName": "130g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/c0762face1ba09ab9e55b13f65c052ea.png",
+      "price": 3690,
+      "marketPrice": 4500,
+      "inventory": 15,
+      "salesCount": 762,
+      "groupPrice": 0,
+      "availableInventory": 15
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28443363\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 15
+  }, {
+    "productId": 28445006,
+    "masterName": "智利无籽葡萄干 150g",
+    "slaveName": "天然晒干成型 多长清洗工艺 粒粒甜润自然香",
+    "salesCount": 891,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28450375,
+      "masterName": "150g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/21575551f66e9895b21db10bd18886f1.png",
+      "price": 2490,
+      "marketPrice": 2900,
+      "inventory": 17,
+      "salesCount": 891,
+      "groupPrice": 0,
+      "availableInventory": 17
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28445006\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 17
+  }, {
+    "productId": 28446507,
+    "masterName": "智利无籽葡萄干 60g",
+    "slaveName": "天然晒干成型 多长清洗工艺 粒粒甜润自然香",
+    "salesCount": 600,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28451876,
+      "masterName": "60g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/21575551f66e9895b21db10bd18886f1.png",
+      "price": 1490,
+      "marketPrice": 1990,
+      "inventory": 0,
+      "salesCount": 600,
+      "groupPrice": 0,
+      "availableInventory": 0
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28446507\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 0
+  }, {
+    "productId": 28452329,
+    "masterName": "香港迪士尼赛车印花饼干 140g",
+    "slaveName": "可爱卡通赛车造型 片片酥脆诱人 浓郁果仁芳香",
+    "salesCount": 606,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28457698,
+      "masterName": "160g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/15aa602c020621d89a814ee06fa88c53.png",
+      "price": 2490,
+      "marketPrice": 3290,
+      "inventory": 52,
+      "salesCount": 606,
+      "groupPrice": 0,
+      "availableInventory": 52
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28452329\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 52
+  }, {
+    "productId": 28258559,
+    "masterName": "原装进口 费列罗榛果礼盒T30",
+    "slaveName": "原粒榛心  香甜浓郁 入口即化",
+    "salesCount": 990,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28263899,
+      "masterName": "375g ",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/6a97ba4bbe2f0dca2cd2d6fa381b239b.png",
+      "price": 8900,
+      "marketPrice": 10800,
+      "inventory": 33,
+      "salesCount": 990,
+      "groupPrice": 0,
+      "availableInventory": 33
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28258559\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 33
+  }, {
+    "productId": 28406374,
+    "masterName": "雅米熊猫 什锦水果糖 36g",
+    "slaveName": "\"传统制糖手工艺 多味甜蜜随心选 可爱礼盒送礼佳选 \"",
+    "salesCount": 433,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28411743,
+      "masterName": "",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/92da81910bcf812edaefd9e2bf2c48e6.png",
+      "price": 1390,
+      "marketPrice": 1980,
+      "inventory": 30,
+      "salesCount": 433,
+      "groupPrice": 0,
+      "availableInventory": 30
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28406374\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 30
+  }, {
+    "productId": 28387737,
+    "masterName": "Disney迪士尼曲奇饼礼盒 400g",
+    "slaveName": "秉承匠心手工艺 香甜果酱夹心 可爱精致送礼佳选",
+    "salesCount": 414,
+    "isSku": 0,
+    "sku": {
+      "skuId": 28393106,
+      "masterName": "",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/80a792bca1c4df6cc2fdfac4561f0faf.png",
+      "price": 8290,
+      "marketPrice": 10800,
+      "inventory": 41,
+      "salesCount": 414,
+      "groupPrice": 0,
+      "availableInventory": 41
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#E57A7B",
+        "title": "直降"
+      }, {
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"28387737\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 41
+  }, {
+    "productId": 61862647,
+    "masterName": "三只松鼠麻辣小鱼干 100g*2",
+    "slaveName": "农家秘制入味 自然油亮锁鲜 香辣紧实可口",
+    "salesCount": 1461,
+    "isSku": 0,
+    "sku": {
+      "skuId": 61870168,
+      "masterName": "",
+      "slaveName": "",
+      "imgUrl": "https://mall.s.maizuo.com/7398da8873e3d1dfc025ec0c6da96535.png",
+      "price": 3980,
+      "marketPrice": 0,
+      "inventory": 850,
+      "salesCount": 1461,
+      "groupPrice": 0,
+      "availableInventory": 850
+    },
+    "labels": {
+      "common": [{
+        "labelColor": "#78A0D1",
+        "title": "包邮"
+      }],
+      "country": {
+        "image": ""
+      },
+      "buyerShow": ""
+    },
+    "hasVideo": 0,
+    "action": {
+      "actionData": "{\"businessId\":\"61862647\",\"param\":\"1\"}",
+      "actionType": 7
+    },
+    "totalInventory": 850
+  },
+    {
+      "productId": 8759578,
+      "masterName": "洽洽 混合果仁水果蜜饯干 182g",
+      "slaveName": "坚果与鲜果干搭配 均衡营养",
+      "salesCount": 28017,
+      "isSku": 0,
+      "sku": {
+        "skuId": 8763028,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/b70cb25a7c8b1275fc944cddf6f55635.png",
+        "price": 4480,
+        "marketPrice": 0,
+        "inventory": 987,
+        "salesCount": 28017,
+        "groupPrice": 0,
+        "availableInventory": 987
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"8759578\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 987
+    }, {
+      "productId": 61856243,
+      "masterName": "三只松鼠香辣卤鸡爪 200g",
+      "slaveName": "地道香辛入味 酥软虎皮诱人  肉厚香辣浓郁",
+      "salesCount": 1449,
+      "isSku": 0,
+      "sku": {
+        "skuId": 61863764,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/a2835795eab1c25ca89710b604eaab89.png",
+        "price": 3680,
+        "marketPrice": 0,
+        "inventory": 356,
+        "salesCount": 1449,
+        "groupPrice": 0,
+        "availableInventory": 356
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"61856243\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 356
+    }, {
+      "productId": 4238,
+      "masterName": "元臻 海苔芝士卷 60g",
+      "slaveName": "深海海苔鲜香薄脆，包裹金黄诱人糯米果，里层香滑细腻芝士夹心",
+      "salesCount": 13771,
+      "isSku": 0,
+      "sku": {
+        "skuId": 6523,
+        "masterName": "60g ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/ee698ab55d97fb0963f5d9b4ee4b2b53.png",
+        "price": 1990,
+        "marketPrice": 0,
+        "inventory": 130,
+        "salesCount": 13771,
+        "groupPrice": 0,
+        "availableInventory": 130
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"4238\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 130
+    }, {
+      "productId": 3979,
+      "masterName": "印尼进口 纳宝帝奶酪巧克力威化组合 350g",
+      "slaveName": "口感酥脆 入口即化 多层夹心畅享",
+      "salesCount": 18914,
+      "isSku": 0,
+      "sku": {
+        "skuId": 6061,
+        "masterName": "奶酪味 ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/b042a41f72a488237364a04c1859d918.png",
+        "price": 3290,
+        "marketPrice": 0,
+        "inventory": 261,
+        "salesCount": 18324,
+        "groupPrice": 0,
+        "availableInventory": 261
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#c03131",
+          "title": "爆款"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"3979\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 728
+    }, {
+      "productId": 3415,
+      "masterName": "蒙亮内蒙古手撕风干牛肉 248g/500g*1袋",
+      "slaveName": "百年传承匠心工艺 甄选草原黄牛肉 嚼劲十足",
+      "salesCount": 28781,
+      "isSku": 0,
+      "sku": {
+        "skuId": 5106,
+        "masterName": "248g 原味 ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/862a8c73268dbbf8d6a5e76c7ed9b8e5.png",
+        "price": 6990,
+        "marketPrice": 0,
+        "inventory": 336,
+        "salesCount": 12842,
+        "groupPrice": 0,
+        "availableInventory": 336
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"3415\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 1417
+    }, {
+      "productId": 66126812,
+      "masterName": "科尔沁香辣牛肉干 105g*2",
+      "slaveName": "多道香辛料入味 色泽油亮自然 紧实弹嫩劲爽",
+      "salesCount": 1995,
+      "isSku": 0,
+      "sku": {
+        "skuId": 66134980,
+        "masterName": "泡椒牛肉105g*2 ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/f45f7cacbe8c5e749f06eaaab50948a7.png",
+        "price": 4580,
+        "marketPrice": 0,
+        "inventory": 988,
+        "salesCount": 479,
+        "groupPrice": 0,
+        "availableInventory": 988
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }, {
+          "labelColor": "#91BC6F",
+          "title": "新品"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"66126812\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 2881
+    }, {
+      "productId": 54453144,
+      "masterName": "三立日式牛油蛋卷 91g*2",
+      "slaveName": "进口黄油烤制 入口酥脆香浓 健康非油炸",
+      "salesCount": 1962,
+      "isSku": 0,
+      "sku": {
+        "skuId": 54459851,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/9fc8c60efb425a5349257f453988b460.png",
+        "price": 4600,
+        "marketPrice": 0,
+        "inventory": 735,
+        "salesCount": 1962,
+        "groupPrice": 0,
+        "availableInventory": 735
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"54453144\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 735
+    }, {
+      "productId": 61852781,
+      "masterName": "三只松鼠孜香牛肚 120g",
+      "slaveName": "农家香辛料入味 色泽鲜亮自然 香辣Q弹有嚼劲",
+      "salesCount": 1450,
+      "isSku": 0,
+      "sku": {
+        "skuId": 61860303,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/e98cc75088d0f22eacffec26681f8592.png",
+        "price": 3690,
+        "marketPrice": 0,
+        "inventory": 826,
+        "salesCount": 1450,
+        "groupPrice": 0,
+        "availableInventory": 826
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"61852781\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 826
+    }, {
+      "productId": 3981,
+      "masterName": "韩国进口 蜂蜜柚子茶 580g",
+      "slaveName": "传统制作工艺 韩国海岸黄金柚 果肉含量达50%",
+      "salesCount": 13032,
+      "isSku": 0,
+      "sku": {
+        "skuId": 9504223,
+        "masterName": "580g ",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/2d4c3249b2383937e260b9faa11f1548.png",
+        "price": 3990,
+        "marketPrice": 0,
+        "inventory": 163,
+        "salesCount": 13032,
+        "groupPrice": 0,
+        "availableInventory": 163
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"3981\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 163
+    }, {
+      "productId": 14256675,
+      "masterName": "韩国进口 蜂蜜大枣茶 580g",
+      "slaveName": "农家选材自然 富含维C果肉多 香甜滋补百搭",
+      "salesCount": 1867,
+      "isSku": 0,
+      "sku": {
+        "skuId": 14260666,
+        "masterName": "",
+        "slaveName": "",
+        "imgUrl": "https://mall.s.maizuo.com/2eb9eef5fed7538fad6731b7d5043bd2.png",
+        "price": 4900,
+        "marketPrice": 0,
+        "inventory": 791,
+        "salesCount": 1867,
+        "groupPrice": 0,
+        "availableInventory": 791
+      },
+      "labels": {
+        "common": [{
+          "labelColor": "#78A0D1",
+          "title": "包邮"
+        }],
+        "country": {
+          "image": ""
+        },
+        "buyerShow": ""
+      },
+      "hasVideo": 0,
+      "action": {
+        "actionData": "{\"businessId\":\"14256675\",\"param\":\"1\"}",
+        "actionType": 7
+      },
+      "totalInventory": 791
+    }]
+}
+
+
+
